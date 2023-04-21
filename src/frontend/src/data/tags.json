@@ -1,0 +1,406 @@
+      
+{
+  "tags": [
+    {
+      "name": "cold",
+      "tagid": 1
+    },
+    {
+      "name": "milk",
+      "tagid": 2
+    },
+    {
+      "name": "dairy",
+      "tagid": 3
+    },
+    {
+      "name": "nuts",
+      "tagid": 4
+    },
+    {
+      "name": "vegan",
+      "tagid": 5
+    },
+    {
+      "name": "vegetarian",
+      "tagid": 6
+    },
+    {
+      "name": "non-dairy",
+      "tagid": 7
+    },
+    {
+      "name": "pet friendly",
+      "tagid": 8
+    },
+    {
+      "name": "coffee",
+      "tagid": 9
+    },
+    {
+      "name": "caffeine",
+      "tagid": 10
+    },
+    {
+      "name": "juice",
+      "tagid": 11
+    },
+    {
+      "name": "alcohol",
+      "tagid": 12
+    },
+    {
+      "name": "liqueur",
+      "tagid": 13
+    },
+    {
+      "name": "peach liqueur",
+      "tagid": 14
+    },
+    {
+      "name": "fruit",
+      "tagid": 15
+    },
+    {
+      "name": "herb",
+      "tagid": 16
+    },
+    {
+      "name": "spice",
+      "tagid": 17
+    },
+    {
+      "name": "vegetable",
+      "tagid": 18
+    },
+    {
+      "name": "tea",
+      "tagid": 19
+    },
+    {
+      "name": "black tea",
+      "tagid": 20
+    },
+    {
+      "name": "green tea",
+      "tagid": 21
+    },
+    {
+      "name": "oolong tea",
+      "tagid": 22
+    },
+    {
+      "name": "white tea",
+      "tagid": 23
+    },
+    {
+      "name": "herbal tea",
+      "tagid": 24
+    },
+    {
+      "name": "gin",
+      "tagid": 25
+    },
+    {
+      "name": "vodka",
+      "tagid": 26
+    },
+    {
+      "name": "rum",
+      "tagid": 27
+    },
+    {
+      "name": "tequila",
+      "tagid": 28
+    },
+    {
+      "name": "cognac",
+      "tagid": 29
+    },
+    {
+      "name": "whisky",
+      "tagid": 30
+    },
+    {
+      "name": "scotch",
+      "tagid": 31
+    },
+    {
+      "name": "whiskey",
+      "tagid": 32
+    },
+    {
+      "name": "japanese",
+      "tagid": 33
+    },
+    {
+      "name": "australian",
+      "tagid": 34
+    },
+    {
+      "name": "coffee liqueur",
+      "tagid": 35
+    },
+    {
+      "name": "caffein",
+      "tagid": 36
+    },
+    {
+      "name": "eggs",
+      "tagid": 37
+    },
+    {
+      "name": "cream liqueur",
+      "tagid": 38
+    },
+    {
+      "name": "chocolate liqueur",
+      "tagid": 39
+    },
+    {
+      "name": "banana liqueur",
+      "tagid": 40
+    },
+    {
+      "name": "blackcurrant liqueur",
+      "tagid": 41
+    },
+    {
+      "name": "sour cherry liqueur",
+      "tagid": 42
+    },
+    {
+      "name": "peppermint liqueur",
+      "tagid": 43
+    },
+    {
+      "name": "almond liqueur",
+      "tagid": 44
+    },
+    {
+      "name": "apricot kernel liqueur",
+      "tagid": 45
+    },
+    {
+      "name": "violet liqueur",
+      "tagid": 46
+    },
+    {
+      "name": "fruit liqueur",
+      "tagid": 47
+    },
+    {
+      "name": "flower citrus liqueur",
+      "tagid": 48
+    },
+    {
+      "name": "elderflower liqueur",
+      "tagid": 49
+    },
+    {
+      "name": "orange liqueur",
+      "tagid": 50
+    },
+    {
+      "name": "cherry liqueur",
+      "tagid": 51
+    },
+    {
+      "name": "orange herbal liqueur",
+      "tagid": 52
+    },
+    {
+      "name": "pear liqueur",
+      "tagid": 53
+    },
+    {
+      "name": "strawberry liqueur",
+      "tagid": 54
+    },
+    {
+      "name": "melon liqueur",
+      "tagid": 55
+    },
+    {
+      "name": "lychee liqueur",
+      "tagid": 56
+    },
+    {
+      "name": "apple liqueur",
+      "tagid": 57
+    },
+    {
+      "name": "apricot liqueur",
+      "tagid": 58
+    },
+    {
+      "name": "chartreuse",
+      "tagid": 59
+    },
+    {
+      "name": "cinnamon whiskey",
+      "tagid": 60
+    },
+    {
+      "name": "cinnamon",
+      "tagid": 61
+    },
+    {
+      "name": "sugar",
+      "tagid": 62
+    },
+    {
+      "name": "syrup",
+      "tagid": 63
+    },
+    {
+      "name": "cream",
+      "tagid": 64
+    },
+    {
+      "name": "custard",
+      "tagid": 65
+    },
+    {
+      "name": "cheese",
+      "tagid": 66
+    },
+    {
+      "name": "soda",
+      "tagid": 67
+    },
+    {
+      "name": "fizzy",
+      "tagid": 68
+    },
+    {
+      "name": "tonic",
+      "tagid": 69
+    },
+    {
+      "name": "energy",
+      "tagid": 70
+    },
+    {
+      "name": "wine",
+      "tagid": 71
+    },
+    {
+      "name": "white wine",
+      "tagid": 72
+    },
+    {
+      "name": "red wine",
+      "tagid": 73
+    },
+    {
+      "name": "sparkling wine",
+      "tagid": 74
+    },
+    {
+      "name": "port",
+      "tagid": 75
+    },
+    {
+      "name": "sherry",
+      "tagid": 76
+    },
+    {
+      "name": "tawny",
+      "tagid": 77
+    },
+    {
+      "name": "dessert",
+      "tagid": 78
+    },
+    {
+      "name": "chocolate",
+      "tagid": 79
+    },
+    {
+      "name": "powder",
+      "tagid": 80
+    },
+    {
+      "name": "topping",
+      "tagid": 81
+    },
+    {
+      "name": "vermouth",
+      "tagid": 82
+    },
+    {
+      "name": "dry vermouth",
+      "tagid": 83
+    },
+    {
+      "name": "sweet vermouth",
+      "tagid": 84
+    },
+    {
+      "name": "olives",
+      "tagid": 85
+    },
+    {
+      "name": "brine",
+      "tagid": 86
+    },
+    {
+      "name": "bitters",
+      "tagid": 87
+    },
+    {
+      "name": "rye",
+      "tagid": 88
+    },
+    {
+      "name": "egg",
+      "tagid": 89
+    },
+    {
+      "name": "protein",
+      "tagid": 90
+    },
+    {
+      "name": "puree",
+      "tagid": 91
+    },
+    {
+      "name": "raspberry",
+      "tagid": 92
+    },
+    {
+      "name": "passionfruit",
+      "tagid": 93
+    },
+    {
+      "name": "peach",
+      "tagid": 94
+    },
+    {
+      "name": "strawberry",
+      "tagid": 95
+    },
+    {
+      "name": "blackberry",
+      "tagid": 96
+    },
+    {
+      "name": "blackberry liqueur",
+      "tagid": 97
+    },
+    {
+      "name": "passionfruit liqueur",
+      "tagid": 98
+    },
+    {
+      "name": "aperol",
+      "tagid": 99
+    },
+    {
+      "name": "aperitif",
+      "tagid": 100
+    }
+  ]
+}
+    

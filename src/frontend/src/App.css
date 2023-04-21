@@ -1,0 +1,61 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * acumin-pro-condensed:
+ *   - http://typekit.com/eulas/00000000000000003b9acb08
+ *
+ * © 2009-2022 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2022-07-28 03:06:22 UTC"}*/
+@import url("https://use.typekit.net/hel6von.css");
+
+.App {
+  font-family: acumin-pro-condensed, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  background-color: #FAEBD9;
+  width: 100%;
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+}
+
+.MuiButton-contained {
+  position: 'absolute';
+  right: 10;
+  font-family: acumin-pro-condensed, sans-serif;
+  font-size: 20;
+  font-weight: 600;
+  font-style: normal;
+  text-align: center;
+  background-color: #EFDABD ;
+  color:#4B0F20;
+}
+
+.MuiMenu-list {
+  background-color: #FAEBD9 ;
+  color:#4B0F20;
+}
+
+.quizCard {
+  background-color: #4B0F20;
+  border: #EFDABD 1px solid;
+  color: white;
+}
+
+.MuiToggleButtonGroup-root {
+  background-color: #C8957C;
+  width: 100%;
+  height: 200px;
+}
+
+.MuiToggleButton-root {
+  width: 25%;
+  color: #C7DAE1;
+}
